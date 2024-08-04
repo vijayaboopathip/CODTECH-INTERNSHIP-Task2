@@ -26,6 +26,10 @@ Functionality:
 * Computes the average percentage based on the total marks.
 * Displays the total marks, average percentage, and corresponding grade.
 
+Technologie:
+Java Programming Language
+* Eclipse(IDE)
+
 OUT PUT:
 
 ![image](https://github.com/user-attachments/assets/6da4712c-d3e9-4b65-b23c-d3e2f0bfc06d)
